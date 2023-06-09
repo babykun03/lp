@@ -2041,7 +2041,7 @@
                                 <strong>TOGEL TERPERCAYA</strong>
                             </td>
                             <td>
-                                <a class="button" href="https://vivapasarantogel.com/daftarpt2" target="_blank" rel="nofollow noopener">Daftar</a>
+                                <a class="button" href="https://vivapasarantogel.com/dftrpt2" target="_blank" rel="nofollow noopener">Daftar</a>
                             </td>
                         </tr>
                     </tbody>
@@ -2052,7 +2052,7 @@
                                 <strong>BANDAR TOGEL TERPERCAYA</strong>
                             </td>
                             <td>
-                                <a class="button" href="https://vivapasarantogel.com/daftarpt2" target="_blank" rel="nofollow noopener">Daftar</a>
+                                <a class="button" href="https://vivapasarantogel.com/dftrpt2" target="_blank" rel="nofollow noopener">Daftar</a>
                             </td>
                         </tr>
                     </tbody>
