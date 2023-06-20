@@ -1066,7 +1066,7 @@
         "name": "Hoki Slot 4d",
         "alternateName": "Hoki Slot 4d",
         "url": "https://unipem.ac.id/-/slot-hoki/",
-        "logo": "https://cutt.ly/SLOT-4D",
+        "logo": "https://i.ibb.co/ZNwwWTq/SLOT-4D.png",
         "sameAs": "https://unipem.ac.id/-/slot-hoki/",
         "image": "https://i.postimg.cc/V6cHvCFq/situs-slot4d-terpercaya.png"
       }
@@ -1078,7 +1078,7 @@
         <div class="row">
           <div class="col-md-12 text-center">
             <div class="logocil">
-              <amp-img width="300px" height="70px" src="https://cutt.ly/SLOT-4D" alt="Hoki Slot 4d"></amp-img>
+              <amp-img width="300px" height="70px" src="https://i.ibb.co/ZNwwWTq/SLOT-4D.png" alt="Hoki Slot 4d"></amp-img>
             </div>
           </div>
         </div>
@@ -1091,7 +1091,7 @@
         <div class="row mt-3">
           <div class="col-md-12">
             <div class="logo text-center">
-              <amp-img width="300px" height="70px" src="https://cutt.ly/SLOT-4D" alt="Hoki Slot 4d"></amp-img>
+              <amp-img width="300px" height="70px" src="https://i.ibb.co/ZNwwWTq/SLOT-4D.png" alt="Hoki Slot 4d"></amp-img>
             </div>
           </div>
         </div><br><br>
